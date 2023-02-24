@@ -9,5 +9,12 @@
 }
 
 body {
-  background: #151523;
+  background: rgb(11,22,28);
+background: linear-gradient(90deg, rgba(11,22,28,1) 12%, rgba(25,23,101,1) 95%);
+min-height: 150vh;
+
+}
+
+.header-background {background: rgb(25,23,101);
+  background: linear-gradient(90deg, rgba(25,23,101,1) 53%, rgba(102,102,168,0.9976365546218487) 70%, rgba(25,23,99,1) 82%);
 }
